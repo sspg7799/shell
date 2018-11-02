@@ -1,0 +1,11 @@
+#! /bin/bash
+
+mkdir shiva
+echo " your diectopry is created"
+
+touch shiva/test{1..20}.txt
+
+echo " text1 to test20 files created"
+
+ls ltr /shiva/*
+
